@@ -1,5 +1,5 @@
 {
-  "name": "payfast/payfast-common",
+  "name": "linwor/payfast-common",
   "description": "Payfast common class for modules.",
   "type": "library",
   "license": "GPL-3.0",
@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Payfast\\PayfastCommon\\": "src/"
+      "Linwor\\PayfastCommon\\": "src/"
     }
   }
 }

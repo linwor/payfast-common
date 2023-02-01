@@ -8,7 +8,7 @@
  * copy, modify or distribute this plugin / code or part thereof in any way.
  */
 
-namespace Payfast\PayfastCommon;
+namespace Linwor\PayfastCommon;
 
 // General Defines
 const PF_TIMEOUT = 15;
