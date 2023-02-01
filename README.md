@@ -8,7 +8,7 @@ This is the Payfast common class for modules.
 You can install this module using composer:
 
 ```console
-composer require payfast/payfast-common
+composer require linwor/payfast-common
 ```
 
 You will need to also declare the following module constants:
